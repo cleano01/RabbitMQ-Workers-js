@@ -17,3 +17,18 @@ Uma aplicação simples em Node.js de troca de mensagem usando RabbitMQ.
 
       DOCKER >= 18.06.3
       
+      
+ #### Instalação 
+-----------------
+* Node.js:
+
+      Node.Js
+
+* Docker:
+
+      NPM >= 6.13.7
+
+* RabbitMQ :rabbit::
+
+      DOCKER >= 18.06.3
+      
