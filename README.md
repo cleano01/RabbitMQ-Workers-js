@@ -26,6 +26,7 @@ Uma aplicação simples em Node.js de troca de mensagem usando RabbitMQ.
 
 
 * Docker:
+
      [Docker](https://docs.docker.com/engine/install/ubuntu/) 
      
 
