@@ -22,13 +22,13 @@ Uma aplicação simples em Node.js de troca de mensagem usando RabbitMQ.
 -----------------
 * Node.js:
 
-      Node.Js
+     [![Node.Js](https://github.com/nodesource/distributions/blob/master/README.md)]
 
 * Docker:
 
       NPM >= 6.13.7
 
-* RabbitMQ :rabbit::
+* RabbitMQ :
 
       DOCKER >= 18.06.3
       
