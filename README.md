@@ -26,9 +26,9 @@ Uma aplicação simples em Node.js de troca de mensagem usando RabbitMQ.
 
 * Docker:
 
-      NPM >= 6.13.7
+      [Docker](https://docs.docker.com/engine/install/ubuntu/)
 
 * RabbitMQ :
 
-      DOCKER >= 18.06.3
+      docker run -d --hostname my-rabbit --name some-rabbit -p 15672:15672 -p 5672:5672 rabbitmq:3-management
       
